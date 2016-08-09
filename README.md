@@ -1,9 +1,12 @@
-#Basic Project
+#Java Basic Project
 
-**Basic Project**
+*Simple Java Basic Project*
 
-*Java 7*
+**Java 7**
 
 * Java Application
+* Maven
 
-Simple Java Application. 
+Java Application which focuses on Java Fundamentals
+ 
+[Val](https://github.com/Valavala24)
