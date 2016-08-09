@@ -4,7 +4,7 @@
 	<groupId>com.sqa.pv</groupId>
 	<artifactId>java-basics</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Java Basics</name>
+	<name>Java Basics Project</name>
 	<description>Project which focuses on Java Fundamentals</description>
 
 	<dependencies>
